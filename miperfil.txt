@@ -3,3 +3,5 @@ Hola mi nombre es Mariana Diaz
 Tengo 23 años y naci en Bogotá Colombia, vivi en Espana
 
 Actualmente estoy estudiando ingenieria de sistemas en noveno semestre
+
+Pero tambien esta haciendo sus practicas de Data Science
